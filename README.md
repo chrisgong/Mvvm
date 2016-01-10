@@ -5,6 +5,7 @@
 
 androidannotations + datading + retrofit + rxandroid + easyadapter + picasso
 
+
 |框架|
 |--|
 |[androidannotations](https://github.com/excilys/androidannotations)|
